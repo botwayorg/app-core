@@ -1,5 +1,9 @@
 # [Botway](https://github.com/abdfnx/botway) App Core
 
+Moved to [botway/core](https://github.com/abdfnx/botway/tree/main/core)
+
+---
+
 ## Usage
 
 ```bash
